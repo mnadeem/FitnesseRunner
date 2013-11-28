@@ -21,5 +21,7 @@ bin ==> binary executables are present here, based on you environment you have t
 CONFIGURATION
 -------------
 
-If you want to change the port
+If you want to change the port, change the following paramer (line number 51 of FitnesseRunner/conf/wrapper.conf
+
+wrapper.app.parameter.3=9080
 
