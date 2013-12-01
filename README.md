@@ -34,7 +34,7 @@ Fitnesse Runner is based on [Java Service Wrapper][jswId]
 
 * __bin__ ==> binary executables are present here, based on you environment you have to execute one of the files in this directory
 
----
+
 
 ### FAQ ###
 
