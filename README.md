@@ -4,6 +4,9 @@
 
 After downloading the fitnesse jar file copy it to FitnesseRunner/lib based on your environment start the appropriate script, you are done.
 
+Jenkins Runner is based on [Java Service Wrapper][jswId]
+![Java Service Wrapper][jswImageId]
+
 ---
 
 ### DIRECTORY DETAILS ###
@@ -33,3 +36,6 @@ _wrapper.app.parameter.3=9080_
 
 ---
 
+
+  [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
+  [jswImageId]: http://wrapper.static.tanukisoftware.co.jp/images/jsw-logo.jpg "Java Service Wrapper"
