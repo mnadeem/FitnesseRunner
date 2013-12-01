@@ -58,6 +58,8 @@ _Wrap [SVNCMSystem class][svnCMId] in a jar file and put it in FitnesseRunner/li
 
 _Restart the fitnesse_
 
+__Note__ SVN binaries should be available in the PATH
+
   [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
   [jswImageId]: http://wrapper.static.tanukisoftware.co.jp/images/jsw-logo.jpg "Java Service Wrapper"
   [svnCMId]: http://reachmnadeem.wordpress.com/2013/10/16/svn-fitnesse-integration/ "SVN CM System"
