@@ -44,7 +44,7 @@ Fitnesse Runner is based on [Java Service Wrapper][jswId]
 #### How do I change the port? ####
 
 
-__If you want to change the port, change the following paramer (line number 51 of FitnesseRunner/conf/wrapper.conf__
+_If you want to change the port, change the following paramer (line number 51 of FitnesseRunner/conf/wrapper.conf_
 
 	wrapper.app.parameter.3=9080
 
