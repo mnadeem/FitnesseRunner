@@ -3,6 +3,7 @@
 
 
 After downloading the fitnesse jar file copy it to FitnesseRunner/lib based on your environment start the appropriate script, you are done.
+
 ---
 
 ### DIRECTORY DETAILS ###
