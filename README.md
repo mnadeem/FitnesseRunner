@@ -50,7 +50,7 @@ _If you want to change the port, change the following paramer (line number 51 of
 
 #### How do I Integrate SVN with Fitnesse? ####
 
-_Wrap SVNCMSystem class in a jar file and put it in FitnesseRunner/lib, and un comment the following lines_
+_Wrap [SVNCMSystem class][svnCMId] in a jar file and put it in FitnesseRunner/lib, and un comment the following lines_
 
 	lINE 34 wrapper.java.additional.5=-DCM_SYSTEM=com.company.app.fitnesse.cmsystem.SVNCMSystem
 	lINE 56 wrapper.app.parameter.6=-e
