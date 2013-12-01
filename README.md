@@ -52,11 +52,11 @@ _If you want to change the port, change the following paramer (line number 51 of
 
 _Wrap SVNCMSystem class in a jar file and put it in FitnesseRunner/lib, and un comment the following lines_
 
-	__lINE 34__ wrapper.java.additional.5=-DCM_SYSTEM=com.company.app.fitnesse.cmsystem.SVNCMSystem
-	__lINE 56__ wrapper.app.parameter.6=-e
-	__lINE 57__ wrapper.app.parameter.7=0
+	lINE 34 wrapper.java.additional.5=-DCM_SYSTEM=com.company.app.fitnesse.cmsystem.SVNCMSystem
+	lINE 56 wrapper.app.parameter.6=-e
+	lINE 57 wrapper.app.parameter.7=0
 
-_Restart the fitnesse
+_Restart the fitnesse_
 
   [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
   [jswImageId]: http://wrapper.static.tanukisoftware.co.jp/images/jsw-logo.jpg "Java Service Wrapper"
