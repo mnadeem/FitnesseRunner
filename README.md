@@ -1,6 +1,6 @@
-
 ## FITNESSE RUNNER ##
 
+![runnerImageId]
 
 After downloading the fitnesse jar file copy it to FitnesseRunner/lib based on your environment start the appropriate script, you are done.
 
@@ -60,6 +60,7 @@ _Restart the fitnesse_
 
 __Note__ SVN binaries should be available in the PATH
 
+  [runnerImageId]: https://raw.github.com/mnadeem/images/master/fitnesse.png "Fitnesse Runner"
   [jswId]: http://wrapper.tanukisoftware.com/  "Java Service Wrapper"
   [jswImageId]: http://wrapper.static.tanukisoftware.co.jp/images/jsw-logo.jpg "Java Service Wrapper"
   [svnCMId]: http://reachmnadeem.wordpress.com/2013/10/16/svn-fitnesse-integration/ "SVN CM System"
